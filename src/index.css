@@ -240,3 +240,25 @@ img.large {
   border-top-color: #f08000;
   color: #f08000;
 }
+
+/* INTERNET CONNECTION */
+#onlinediv1 {
+  text-align: center;
+  height: 20px;
+  background-color: red;
+  color: #203040;
+}
+
+#onlinespan1,
+#offlinespan1 {
+  padding: 5px;
+  font-weight: bold;
+  font-family: none;
+}
+
+#offlinediv1 {
+  text-align: center;
+  height: 20px;
+  background-color: #4285f4;
+  color: #203040;
+}
