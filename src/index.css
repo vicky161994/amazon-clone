@@ -245,8 +245,8 @@ img.large {
 #onlinediv1 {
   text-align: center;
   height: 20px;
-  background-color: red;
-  color: #203040;
+  background-color: #ffb3b3;
+  color: #ffffff;
 }
 
 #onlinespan1,
@@ -259,6 +259,6 @@ img.large {
 #offlinediv1 {
   text-align: center;
   height: 20px;
-  background-color: #4285f4;
-  color: #203040;
+  background-color: #9fc1f9;
+  color: #ffffff;
 }
